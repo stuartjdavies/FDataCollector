@@ -1,0 +1,14 @@
+TODO
+----
+1. Update web job to service bus
+2. Create script to publish to Azure Service Bus
+3. Create script to publish to Azure Queue
+4. Update poison message properties
+5. Configure poison messages
+6. Add Web Job deploy in FAKE script.
+7. Create mbrace script to get asx data.
+8. Create mbrace script to get today's last closing price and save to a blob file.
+9. Figure out a initial monitoring strategy.
+10. What good programs are there for monitoring servicebus messages
+11. How do you speed up queue speed.
+12. Move FDataCollector.WebJob to F#.
