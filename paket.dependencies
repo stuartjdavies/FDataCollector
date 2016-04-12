@@ -1,0 +1,18 @@
+source https://nuget.org/api/v2
+
+nuget FSharp.Core
+nuget MBrace.Core
+nuget MBrace.Flow
+nuget MBrace.Thespian
+nuget MBrace.Runtime
+nuget MBrace.Azure 
+nuget MBrace.Azure.Management
+nuget MBrace.CSharp
+nuget FAKE
+nuget WindowsAzure.ServiceBus
+nuget Microsoft.Azure.DocumentDB
+nuget FSharp.Data
+nuget Microsoft.Azure.WebJobs
+nuget Microsoft.Azure.WebJobs.ServiceBus
+nuget WindowsAzure.Storage 
+nuget Microsoft.Web.WebJobs.Publish
