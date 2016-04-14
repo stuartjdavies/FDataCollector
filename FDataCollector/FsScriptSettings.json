@@ -3,5 +3,6 @@
   "AzureWebJobsStorage": "<empty>",
   "AzureWebJobsServiceBus": "<empty>",
   "AzureBlobContainterName": "<empty>",
-  "AzureAsxContainerPath": "<empty>"
+  "AzureAsxContainerPath": "<empty>",
+  "AzureDBConnectionString": "<empty>"
 }

@@ -57,7 +57,7 @@
     <None Include="Setup.fsx" />
     <None Include="PublishToAzureServiceBus.fsx" />
     <None Include="PublishToAzureQueue.fsx" />
-    <None Include="mbrace_getdata.fsx" />
+    <None Include="MbraceExperiments.fsx" />
     <None Include="AzureCluster.fsx" />
     <None Include="ThespianCluster.fsx" />
     <None Include="lib\utils.fsx" />
